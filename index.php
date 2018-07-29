@@ -13,13 +13,12 @@
 		<option>Снег</option>
 		<option>Дождь</option>
 		<option>Солнечно</option>
-		<option>Облачно</option>
+		<option>Грязно</option>
 	</select>
 	<input type="submit">
 	</label>
 </form>
 </div>
 <p>asd</p>
-<p>asdasd</p>
 </body>
 </html>
